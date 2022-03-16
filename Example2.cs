@@ -9,5 +9,9 @@ namespace Capgemini.CSharp.Day2
         
    
         WriteLine("Hello world");
+        WriteLine("Create GitHub Repository");
+        
+
+
     }
 }}
